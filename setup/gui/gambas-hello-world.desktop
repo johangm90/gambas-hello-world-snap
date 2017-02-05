@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=gambas-hello-world
+Exec=${SNAP}/bin/vulgry.gambas
+Type=Application
