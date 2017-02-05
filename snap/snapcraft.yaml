@@ -7,7 +7,7 @@ confinement: devmode
 
 apps:
   vulgry:
-    command: desktop-launch $SNAP/bin/vulgry.gambas
+    command: desktop-launch $SNAP/bin/hello-world.gambas
     plugs: [unity7, x11, network, network-bind, home, gsettings]
 
 parts:

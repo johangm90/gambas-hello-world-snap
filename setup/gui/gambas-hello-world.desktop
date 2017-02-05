@@ -1,4 +1,4 @@
 [Desktop Entry]
 Name=gambas-hello-world
-Exec=${SNAP}/bin/vulgry.gambas
+Exec=${SNAP}/bin/hello-world.gambas
 Type=Application
